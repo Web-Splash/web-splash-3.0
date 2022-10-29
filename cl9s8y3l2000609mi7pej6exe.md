@@ -11,8 +11,7 @@ Here is everything we know about the PUBG Mobile sequel.
 PUBG's New State release has been officially announced by PUBG Studio and Krafton. The new battle royale game is the successor to the extremely popular PUBG Mobile and will be available for Android and iOS users. We reported earlier that a PUBG Mobile sequel was in the works and that it would arrive next week. It turns out that Krafton had a surprise in store for us and dropped the PUBG: New State pre-registration trailer this week. Outside of the trailer, little more is known about what PUBG New State has in store for us. Here’s everything we know about the all-new PUBG Mobile sequel.
 
 ##### PUBG : NEW STATE TRAILER
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/v-7XAgT1Z1w" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowFullScreen/>
+%[https://www.youtube.com/embed/v-7XAgT1Z1w]
 
 The PUBG New State trailer confirms some speculation we made about the title. For starters, the game is set in the future (2051, to be precise). There’s a new map too, set in a dystopian setting. PUBG New State’s official Google Play Store listing says that is 8×8 in size. Several new vehicles have been introduced, including an ATV (all-terrain vehicle). The selection of guns is more or less the same, but we can expect the developers to add new ones as time passes. New gameplay mechanics include acquiring supplies via a drone and an expandable shield that can be deployed to block enemy fire. As expected, the graphics are significantly better than that of the original PUBG Mobile. This is all we know about PUBG New State gameplay at the moment.
 
